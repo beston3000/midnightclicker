@@ -1,4 +1,4 @@
 # Install command for Linux:
 ```
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/beston3000/midnightclicker/main/install.sh | bash
 ```
